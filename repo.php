@@ -3,3 +3,5 @@
 class Repo() {
     
 }
+
+$test = new Repo();
